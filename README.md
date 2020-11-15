@@ -23,3 +23,7 @@ $ python ../gen_syscalls.py > ../www/syscalls-2.6.35.4.json
 ## Other
 * only tested on 2.6 kernel versions, needs to be updated
 * largely unmaintained, feel free to open a PR and help out!
+
+## Web URL
+x86 https://none87.github.io/syscall-table/www/
+x64 https://none87.github.io/syscall-table/www/x64/index.html
